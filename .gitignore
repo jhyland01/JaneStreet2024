@@ -5,3 +5,5 @@ venv/
 *.parquet
 
 kaggle/input/*
+
+*.DS_Store
