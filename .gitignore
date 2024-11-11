@@ -1,0 +1,7 @@
+venv/
+
+# data files
+*.csv
+*.parquet
+
+kaggle/input/*
