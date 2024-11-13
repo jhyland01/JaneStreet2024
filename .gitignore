@@ -7,3 +7,6 @@ venv/
 kaggle/input/*
 
 *.DS_Store
+
+# model files
+*.pkl
