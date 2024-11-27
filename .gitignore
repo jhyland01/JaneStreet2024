@@ -10,3 +10,4 @@ kaggle/input/*
 
 # model files
 *.pkl
+*.ckpt
